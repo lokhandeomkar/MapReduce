@@ -1,3 +1,7 @@
+Counting task.
+
+-----------
+
 Method Description:
 
 Map: Reads lines, extracts the required fields.
